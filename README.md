@@ -1,74 +1,47 @@
-# CV_Example
-# Hoja de Vida
+# 📄 Hoja de Vida / README
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## 👩‍💻 Nombre
+**Valentina Carrillo Ramírez**  
+_Técnica en Sistemas (2012) | Aprendiz en Análisis y Desarrollo de Software (SENA)_
 
-## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
-
-## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
-
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
-
-## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
-
-## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+📍 Zipaquirá, Cundinamarca, Colombia  
+✉️ [carrillerava@gmail.com](mailto:carrillerava@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/valen-carrillo-878658212) | 📱 [X (Twitter)](https://x.com/Melianova_creat)
 
 ---
 
-## 🎨 Formatos y Fuentes Disponibles
-
-### **Negrita:**
-- `**Texto en negrita**` → **Texto en negrita**
-
-### **Cursiva:**
-- `*Texto en cursiva*` → *Texto en cursiva*
-- `_Texto en cursiva_` → _Texto en cursiva_
-
-### **Combinado:**
-- `***Texto en negrita y cursiva***` → ***Texto en negrita y cursiva***
-
-### **Encabezados:**
-- `# Encabezado 1`
-- `## Encabezado 2`
-- `### Encabezado 3`
-
-### **Citas:**
-> Esto es una cita
-
-### **Código:**
-- `` `código en línea` `` → `código en línea`
-- ```
-  Código en bloque
-  ```
-
-### **Listas:**
-- `- Elemento de lista`
-- `1. Elemento numerado`
-
-### **Enlaces:**
-- `[Texto del enlace](https://ejemplo.com)` → [Texto del enlace](https://ejemplo.com)
-
-### **Imágenes:**
-- `![Texto alternativo](https://ejemplo.com/imagen.jpg)`
-
-### **Tablas:**
-| Encabezado 1 | Encabezado 2 |
-|-------------|-------------|
-| Dato 1     | Dato 2      |
+## 🧑‍🎓 Perfil Profesional
+Técnica en sistemas y actual aprendiz del programa tecnológico en **Análisis y Desarrollo de Software (ADSO)** en el SENA.  
+Cuento con bases sólidas en informática y estoy enfocada en el desarrollo de habilidades en lenguajes como **Python** y **Java** a nivel principiante.  
+Me apasiona la tecnología y complemento mi formación con el uso de **Inteligencia Artificial** para la generación de código y metodologías de calidad de software, creando soluciones eficientes y prácticas.
 
 ---
 
-Esta plantilla en Markdown es editable y adaptable para cada estudiante. ¡Personaliza según sea necesario! 🎯
+## 🎓 Educación y Formación
+- **Tecnólogo en Análisis y Desarrollo de Software (En curso)** — SENA _(2025)_  
+- **Técnico en Sistemas** — SENA _(2012)_  
+- **Cursos Complementarios (SENA Virtual, 2025):**  
+  - Generación de Códigos de Software con Inteligencia Artificial  
+  - Aplicación de la Calidad del Software en el Proceso de Desarrollo  
 
+---
+
+## 💡 Habilidades Técnicas
+- **Lenguajes de programación:** Python, Java _(Nivel Principiante)_  
+- **Áreas clave:**  
+  - Soporte de Sistemas  
+  - Calidad de Software  
+  - Herramientas de IA aplicadas al desarrollo  
+
+---
+
+## 🚀 Objetivos
+- Aplicar lenguajes de programación en proyectos reales.  
+- Seguir creciendo profesionalmente en el área de TI.  
+- Mejorar habilidades en inglés para uso profesional.  
+- Optimizar finanzas familiares y alcanzar la meta de vivienda propia.  
+
+---
+
+## 📌 Notas
+Este README puede ser usado como presentación personal en proyectos de GitHub, portafolio digital o documentación inicial.  
+¡Personalízalo con enlaces a tus repositorios, proyectos destacados o ejemplos de código! 🎯

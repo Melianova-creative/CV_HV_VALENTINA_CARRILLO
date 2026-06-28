@@ -1,74 +1,120 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hoja de Vida</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 20px;
-            background-color: #f4f4f4;
-        }
-        .container {
-            max-width: 800px;
-            background: white;
-            padding: 20px;
-            margin: auto;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1, h2 {
-            color: #333;
-        }
-        .section {
-            margin-bottom: 20px;
-        }
-        .contacto, .experiencia, .educacion, .habilidades {
-            border-bottom: 1px solid #ddd;
-            padding-bottom: 10px;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <title>Hoja de Vida - Valentina Carrillo Ramírez</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 20px;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+    nav {
+      background: #2c3e50;
+      padding: 10px;
+      border-radius: 5px;
+      margin-bottom: 20px;
+    }
+    nav ul {
+      list-style: none;
+      padding: 0;
+      display: flex;
+      gap: 15px;
+    }
+    nav ul li {
+      display: inline;
+    }
+    nav ul li a {
+      color: #ecf0f1;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    nav ul li a:hover {
+      text-decoration: underline;
+    }
+    section {
+      margin-bottom: 30px;
+    }
+  </style>
 </head>
 <body>
-    <div class="container">
-        <h1>Nombre Completo</h1>
-        <p><strong>Profesión:</strong> Tu profesión</p>
-        
-        <div class="section contacto">
-            <h2>Contacto</h2>
-            <p><strong>Teléfono:</strong> +57 123 456 7890</p>
-            <p><strong>Email:</strong> correo@ejemplo.com</p>
-            <p><strong>LinkedIn:</strong> linkedin.com/in/tuusuario</p>
-        </div>
 
-        <div class="section experiencia">
-            <h2>Experiencia Laboral</h2>
-            <p><strong>Empresa XYZ</strong> (2020 - Actualidad)</p>
-            <p>Puesto ocupado y descripción breve.</p>
-            
-            <p><strong>Empresa ABC</strong> (2018 - 2020)</p>
-            <p>Puesto ocupado y descripción breve.</p>
-        </div>
+  <h1>📄 Hoja de Vida</h1>
 
-        <div class="section educacion">
-            <h2>Educación</h2>
-            <p><strong>Universidad Ejemplo</strong> (2014 - 2018)</p>
-            <p>Título obtenido.</p>
-        </div>
+  <!-- Índice de navegación -->
+  <nav>
+    <ul>
+      <li><a href="#nombre">🧑‍💻 Nombre</a></li>
+      <li><a href="#perfil">🎓 Perfil Profesional</a></li>
+      <li><a href="#educacion">📘 Educación</a></li>
+      <li><a href="#habilidades">💡 Habilidades</a></li>
+      <li><a href="#objetivos">🚀 Objetivos</a></li>
+      <li><a href="#notas">📌 Notas</a></li>
+    </ul>
+  </nav>
 
-        <div class="section habilidades">
-            <h2>Habilidades</h2>
-            <ul>
-                <li>Habilidad 1</li>
-                <li>Habilidad 2</li>
-                <li>Habilidad 3</li>
-            </ul>
-        </div>
-    </div>
+  <!-- Secciones -->
+  <section id="nombre">
+    <h2>👩‍💻 Nombre</h2>
+    <p><strong>Valentina Carrillo Ramírez</strong><br>
+    Técnica en Sistemas (2012) | Aprendiz en Análisis y Desarrollo de Software (SENA)<br>
+    📍 Zipaquirá, Cundinamarca, Colombia<br>
+    ✉️ <a href="mailto:carrillerava@gmail.com">carrillerava@gmail.com</a> | 
+    🔗 <a href="https://www.linkedin.com/in/valen-carrillo-878658212">LinkedIn</a> | 
+    📱 <a href="https://x.com/Melianova_creat">X (Twitter)</a></p>
+  </section>
+
+  <section id="perfil">
+    <h2>🎓 Perfil Profesional</h2>
+    <p>Técnica en sistemas y actual aprendiz del programa tecnológico en <strong>Análisis y Desarrollo de Software (ADSO)</strong> en el SENA. 
+    Con bases sólidas en informática, enfocada en lenguajes como <strong>Python</strong> y <strong>Java</strong> a nivel principiante. 
+    Apasionada por la tecnología y el uso de <strong>Inteligencia Artificial</strong> para generar código y aplicar metodologías de calidad de software.</p>
+  </section>
+
+  <section id="educacion">
+    <h2>📘 Educación y Formación</h2>
+    <ul>
+      <li><strong>Tecnólogo en Análisis y Desarrollo de Software (En curso)</strong> — SENA (2025)</li>
+      <li><strong>Técnico en Sistemas</strong> — SENA (2012)</li>
+      <li><strong>Cursos Complementarios (SENA Virtual, 2025):</strong>
+        <ul>
+          <li>Generación de Códigos de Software con Inteligencia Artificial</li>
+          <li>Aplicación de la Calidad del Software en el Proceso de Desarrollo</li>
+        </ul>
+      </li>
+    </ul>
+  </section>
+
+  <section id="habilidades">
+    <h2>💡 Habilidades Técnicas</h2>
+    <ul>
+      <li>Lenguajes de programación: Python, Java (Nivel Principiante)</li>
+      <li>Soporte de Sistemas</li>
+      <li>Calidad de Software</li>
+      <li>Herramientas de IA aplicadas al desarrollo</li>
+    </ul>
+  </section>
+
+  <section id="objetivos">
+    <h2>🚀 Objetivos</h2>
+    <ul>
+      <li>Aplicar lenguajes de programación en proyectos reales</li>
+      <li>Seguir creciendo profesionalmente en TI</li>
+      <li>Mejorar habilidades en inglés para uso profesional</li>
+      <li>Optimizar finanzas familiares y alcanzar la meta de vivienda propia</li>
+    </ul>
+  </section>
+
+  <section id="notas">
+    <h2>📌 Notas</h2>
+    <p>Este README puede ser usado como presentación personal en proyectos de GitHub, portafolio digital o documentación inicial.  
+    ¡Personalízalo con enlaces a tus repositorios, proyectos destacados o ejemplos de código! 🎯</p>
+  </section>
+
 </body>
-    
-<script src="https://cdn.botpress.cloud/webchat/v2.2/inject.js"></script>
-<script src="https://files.bpcontent.cloud/2025/04/05/02/20250405021404-CM8Q1FN6.js"></script>
-    
 </html>
